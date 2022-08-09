@@ -31,11 +31,12 @@
     font-size: 20px;
     color: grey;
     font-family: cursive;
+    margin-top: 200px;
 }
 .image{
-    margin-left: -500px;
+    margin-left: -378px;
     height: 330px;
-    margin-top: 56vh;
+    margin-top: 48vh;
     position: absolute;
 }
 .box2{
